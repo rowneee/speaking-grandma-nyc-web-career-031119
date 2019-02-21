@@ -21,6 +21,6 @@ def speak_to_grandma(string)
   end
 end
   
-speak_to_grandma("Hi Grandma")
-speak_to_grandma("HI GRANDMA")
-speak_to_grandma("I LOVE YOU GRANDMA!")
+puts speak_to_grandma("Hi Grandma")
+puts speak_to_grandma("HI GRANDMA")
+puts speak_to_grandma("I LOVE YOU GRANDMA!")
