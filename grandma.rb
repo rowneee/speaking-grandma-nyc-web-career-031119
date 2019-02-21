@@ -12,9 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 if "Hi Grandma"
-  puts "HUH?! SPEAK UP, SONNY!"
+  return "HUH?! SPEAK UP, SONNY!"
 elsif "HI GRANDMA"
-  puts "NO, NOT SINCE 1938!"
+  return "NO, NOT SINCE 1938!"
 else 'I LOVE YOU GRANDMA!'
-  puts 'I LOVE YOU TOO PUMPKIN!'
+  return 'I LOVE YOU TOO PUMPKIN!'
 end
