@@ -19,6 +19,7 @@ def speak_to_grandma(string)
   else string == "I LOVE YOU GRANDMA!"
     return 'I LOVE YOU TOO PUMPKIN!'
   end
+end
   
 speak_to_grandma("Hi Grandma")
 speak_to_grandma("HI GRANDMA")
